@@ -19,11 +19,15 @@ To transform the image without any loss of data.
 To produce a high quality image result
 Specifications
 -> Read the image in RBG format and then convert it to a grayscale image
+
 -> Invert the grayscale image also called negative image
+
 -> Inversion can be used to enhance details
+
 -> Create the pencil sketch by mixing the grayscale image with the inverted blurry image ie. by dividing the grayscale image by the inverted blurry image
 
 CV2 Library
+
 OpenCV is the huge open-source library for the computer vision, machine learning, and image processing.
 
 
